@@ -21,4 +21,4 @@
 
 **Combes Pierre**
 
-## [LICENSE](https://github.com/zLopOx/ProjetAndroid/LICENSE)
+## [LICENSE](https://github.com/zLopOx/ProjetAndroid/blob/master/LICENSE)
