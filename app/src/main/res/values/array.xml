@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="option_message" translatable="false">
+        <item>Supprimer</item>
+    </string-array>
+</resources>
